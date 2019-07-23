@@ -1,0 +1,19 @@
+#block-right {
+	width: 20%;
+	height: 800px;
+	overflow: auto;
+	float: right;
+	position: sticky;
+	width: 200px;
+	height: 300px;
+	top: 0px;
+}
+.piro {
+	font-size: 24px;
+}
+h1 {
+	font-size: 36px;
+}
+a {
+	text-decoration: none;
+}
