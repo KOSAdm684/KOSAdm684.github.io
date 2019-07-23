@@ -1,0 +1,35 @@
+#cool {/*id*/
+  color: red;
+  font-size: 80%;
+  background-color: black;
+}
+
+p.groove {  /*class*/
+  color: yellow;
+  font-style: italic;   /*italic, iblique, normal*/
+
+}
+/*16 px - стандартный шрифт*/
+#weight {
+  font-weight: 900; /*100-900, 100-тонкий, 400-нормальный, 700-жирный*/
+  color: green;
+  text-align: center;
+}
+#user {
+  font-size: 28px;
+  color: white;
+  background-color: black;
+  font-variant: small-caps;
+}
+#in {
+  text-decoration: overline underline;
+  text-shadow: -5px 2px 6px; /*x,y,размытие,цвет*/
+}
+
+a:link {
+  text-decoration: none;
+}
+
+a:hover {
+  color: orange;
+}
